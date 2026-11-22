@@ -15,8 +15,7 @@ server. Source under Apache-2.0.
 - Recall@10 90.6 % against exact brute force at end-to-end p50 359–400 µs
   (OpenAI text-embedding-3-large, 33,234 vectors, 512-dim, shared AMD EPYC VPS).
   Script and conditions are in the README.
-- `pip install genesis-l0`: 0.1.0 on PyPI was published under BUSL-1.1;
-  the next release is Apache-2.0.
+- `pip install genesis-l0` (0.2.0, Apache-2.0).
 - `hologlyph/`: research L2 memory layer (trust, time, supersession, MCP
   adapter). Its LongMemEval figures come from the dev split only and are
   preliminary.
